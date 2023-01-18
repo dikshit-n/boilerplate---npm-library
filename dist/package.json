@@ -5,6 +5,9 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "sideEffects": false,
+  "scripts": {
+    "publish": "npm publish --access=public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dikshit-n/util-functions-demo-lib-for-live-apps.git"
