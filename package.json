@@ -9,7 +9,7 @@
   "license": "MIT",
   "scripts": {
     "build": "rm -rf dist/lib && tsc",
-    "git:sync": "git add . && git commit -m $npm_config_commit-message && git pull && git push"
+    "git:sync": "git add . && git commit -m $npm_config_commit-message || default-message && git pull && git push"
   },
   "devDependencies": {
     "tslint-config-prettier": "^1.18.0",
