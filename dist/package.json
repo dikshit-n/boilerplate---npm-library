@@ -1,12 +1,12 @@
 {
   "name": "util-functions-demo-lib-for-live-apps",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "description": "A demo library for util functions library which is under live apps.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "sideEffects": false,
   "scripts": {
-    "publish": "npm publish --access=public"
+    "publish:public": "npm publish --access=public"
   },
   "repository": {
     "type": "git",
