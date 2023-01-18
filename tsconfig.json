@@ -6,7 +6,7 @@
     "lib": ["dom", "es2015", "es2016"],
     "declaration": true,
     "sourceMap": true,
-    "outDir": "./lib",
+    "outDir": "dist/lib",
     "removeComments": true,
     "strict": true,
     "noImplicitAny": true,

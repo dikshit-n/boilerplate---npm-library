@@ -2,18 +2,15 @@
   "name": "utils",
   "version": "1.0.0",
   "description": "utility functions",
-  "main": "index.js",
-  "scripts": {
-    "build": "rm ./lib* && tsc"
+  "repository": {
+    "url": "https://github.com/dikshit-n/util-functions-demo-lib-for-live-apps"
   },
-  "keywords": [
-    "utility-functions"
-  ],
   "author": "dikshit-n",
-  "license": "ISC",
-  "files": [
-    "lib"
-  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf dist/lib && tsc",
+    "git:sync": "git add . && git commit -m $npm_config_commit-message && git pull && git push"
+  },
   "devDependencies": {
     "tslint-config-prettier": "^1.18.0",
     "tslint-react": "^5.0.0",

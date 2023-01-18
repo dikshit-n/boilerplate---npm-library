@@ -1,0 +1,31 @@
+{
+    "name": "util-functions-demo-lib-for-live-apps",
+    "version": "0.0.1",
+    "description": "A demo library for util functions library which is under live apps.",
+    "main": "dist/lib/index.js",
+    "sideEffects": false,
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dikshit-n/util-functions-demo-lib-for-live-apps.git"
+    },
+    "files": [
+      "lib",
+      "CHANGELOG.md",
+      "LICENSE",
+      "package.json",
+      "README.md"
+    ],
+    "keywords": [
+      "javascript",
+      "utils",
+      "utilities",
+      "live-apps",
+      "liveapps"
+    ],
+    "author": "dikshit-n",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/dikshit-n/util-functions-demo-lib-for-live-apps/issues"
+    },
+    "homepage": "https://github.com/dikshit-n/util-functions-demo-lib-for-live-apps#readme"
+  }
