@@ -1,6 +1,6 @@
 {
   "name": "npm-library-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Boilerplate code for creating a new npm package",
   "repository": {
     "url": "https://github.com/dikshit-n/npm-library-boilerplate"
