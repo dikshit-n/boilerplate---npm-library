@@ -1,9 +1,9 @@
 {
-  "name": "npm-library-boilerplate",
+  "name": "https://github.com/dikshit-n/boilerplate---npm-library.git",
   "version": "1.0.1",
   "description": "Boilerplate code for creating a new npm package",
   "repository": {
-    "url": "https://github.com/dikshit-n/npm-library-boilerplate"
+    "url": "https://github.com/dikshit-n/boilerplate---npm-library.git"
   },
   "author": "dikshit-n",
   "license": "MIT",

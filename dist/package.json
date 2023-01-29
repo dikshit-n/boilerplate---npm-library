@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dikshit-n/npm-library-boilerplate.git"
+    "url": "git+https://github.com/dikshit-n/boilerplate---npm-library.git"
   },
   "files": [
     "lib/**/*",
@@ -30,7 +30,7 @@
   "author": "dikshit-n",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dikshit-n/npm-library-boilerplate.git/issues"
+    "url": "https://github.com/dikshit-n/boilerplate---npm-library.git/issues"
   },
-  "homepage": "https://github.com/dikshit-n/npm-library-boilerplate.git#readme"
+  "homepage": "https://github.com/dikshit-n/boilerplate---npm-library.git#readme"
 }
